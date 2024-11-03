@@ -44,6 +44,7 @@ bin/
 out/
 
 # NetBeans
+nbproject/
 nbproject/private/
 build/
 nbbuild/
@@ -56,6 +57,4 @@ nbdist/
 
 # Additional files and directories to ignore
 build.xml
-nbproject/
-src/
-web/META-INF/
+
