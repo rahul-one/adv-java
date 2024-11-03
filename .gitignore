@@ -53,3 +53,9 @@ nbdist/
 
 # VS Code
 .vscode/
+
+# Additional files and directories to ignore
+build.xml
+nbproject/
+src/
+web/META-INF/
