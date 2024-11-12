@@ -36,25 +36,8 @@ build/
 .settings/
 bin/
 
-# IntelliJ IDEA
-.idea/
-*.iws
-*.iml
-*.ipr
-out/
-
-# NetBeans
-nbproject/
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
-
 # VS Code
 .vscode/
 
 # Additional files and directories to ignore
 build.xml
-
