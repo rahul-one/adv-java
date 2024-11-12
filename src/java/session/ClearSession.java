@@ -12,7 +12,6 @@ import javax.servlet.http.HttpSession;
  * @author rahulxxl
  */
 public class ClearSession extends HttpServlet {
-
     
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
