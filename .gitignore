@@ -41,3 +41,4 @@ bin/
 
 # Additional files and directories to ignore
 build.xml
+/JdbcProgramming/nbproject/private/
